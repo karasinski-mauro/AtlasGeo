@@ -1,0 +1,10 @@
+os
+fiona
+geobr
+pandas
+geopandas
+matplotlib
+folium
+contextily
+base64
+io
